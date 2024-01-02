@@ -3,7 +3,7 @@ import Link from "next/link";
 const NavBar = () => {
   return (
     <div className="container mx-auto ">
-      <div className="navbar bg-base-100 bg-[#3F00E7] text-white">
+      <div className="navbar bg-[#3F00E7] text-white">
         <div className="flex-1">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
